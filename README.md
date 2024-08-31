@@ -16,7 +16,7 @@ Welcome to the Gaming Website Homepage repository! This project is a showcase of
 
 ## Demo
 
-You can see a live demo of the website here [Gaming-Website](https://anuskasaha.github.io/gaming-website-homepage-clone/).
+You can see a live demo of the website here [Gaming-Homepage-Design](https://anuskasaha.github.io/gaming-website-homepage-clone/).
 
 
 ## Features
