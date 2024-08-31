@@ -15,11 +15,9 @@
 }
 
 .main-grid{
-    width:100dvw;
-    height:100dvh;
+    width:100%;
     display:grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows:0.3fr 1.5fr 1fr 1.5fr 1fr 0.8fr;
     grid-template-areas:
             "nav nav nav nav nav nav"
             "side1 cont1 cont1 cont1 cont1 cont1"
