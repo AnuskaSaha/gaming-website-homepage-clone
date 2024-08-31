@@ -28,5 +28,5 @@ You can see a live demo of the website here [Gaming-Homepage-Design](https://anu
 
 ## Usage/Examples
 
-To view the website locally, simply open the index.html file in your web browser. You can also host the files on a web server to share the website with others.
+To view the homepage locally, simply open the index.html file in your web browser. You can also host the files on a web server to share the website with others.
 
